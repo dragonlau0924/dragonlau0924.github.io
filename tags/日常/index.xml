@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常 on 青蓝</title>
+    <link>https://dragonlau0924.github.io/tags/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on 青蓝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dragonlau0924.github.io/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>劣币驱逐良币</title>
+      <link>https://dragonlau0924.github.io/bad-money-drives-good-money-out-of-circulation/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dragonlau0924.github.io/bad-money-drives-good-money-out-of-circulation/</guid>
+      <description>&lt;p&gt;未掺杂杂质的银子只要重新熔铸并掺入杂质就可以有更高的购买力，所以未掺杂杂质的银子被逐渐淘汰。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo建站</title>
+      <link>https://dragonlau0924.github.io/hugo-web/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dragonlau0924.github.io/hugo-web/</guid>
+      <description>&lt;p&gt;​       断断续续耗时三天，终于建立了自己的hugo个人博客网站。https://dragonlau0924.github.io/&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
