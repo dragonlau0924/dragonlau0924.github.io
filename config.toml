@@ -58,6 +58,7 @@ rssLimit = 5
   DateFormatSingle = "2006-01-02 15:04:05"
   ReadMore = "阅读全文"
 
+  EditPath = 'https://github.com/dragonlau0924/dragonlau0924.github.io/edit/master/content'
 
 [markup]
   [markup.goldmark]
