@@ -7,7 +7,7 @@
             <link href="https://dragonlau0924.github.io/atom.xml" rel="self" type="application/rss+xml" title="atom" />
             <link href="https://dragonlau0924.github.io/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://dragonlau0924.github.io/index.json" rel="alternate" type="application/json" title="JSON" />
-    <updated>2023-02-04T06:20:42+00:00</updated>
+    <updated>2023-02-04T07:19:13+00:00</updated>
     
     
     
@@ -27,7 +27,9 @@
             
             
             <content type="html"><![CDATA[<ul>
-<li>建立在Tex式上的格式，用于排版。它内置了大量的公式，为用户提供了极大的便利。</li>
+<li>LaTex公式是建立在Tex式上的格式，用于排版。它内置了大量的公式，为用户提供了极大的便利。</li>
+</ul>
+<ul>
 <li>命令以 <code>\</code> 开头，用 <code>$</code> 符号括起。</li>
 </ul>
 <h2 id="希腊字母">希腊字母 <a href="#%e5%b8%8c%e8%85%8a%e5%ad%97%e6%af%8d">¶</a></h2><h3 id="小写字母">小写字母 <a href="#%e5%b0%8f%e5%86%99%e5%ad%97%e6%af%8d">¶</a></h3><ul>
@@ -131,8 +133,7 @@
 \end{equation}$$
 </code></pre><ul>
 <li><img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/04/01ef83d7ef934ceebb8d914d2d303fd4" alt="image.png"  /></li>
-</ul>
-]]></content>
+</ul>]]></content>
             
                  
                     
