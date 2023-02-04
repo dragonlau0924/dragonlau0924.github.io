@@ -7,7 +7,7 @@
             <link href="https://dragonlau0924.github.io/atom.xml" rel="self" type="application/rss+xml" title="atom" />
             <link href="https://dragonlau0924.github.io/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://dragonlau0924.github.io/index.json" rel="alternate" type="application/json" title="JSON" />
-    <updated>2023-02-04T05:58:26+00:00</updated>
+    <updated>2023-02-04T06:01:14+00:00</updated>
     
     
     
@@ -16,10 +16,10 @@
     
         
         <entry>
-            <title type="html"><![CDATA[LeTex公式入门]]></title>
-            <link href="https://dragonlau0924.github.io/letex/" rel="alternate" type="text/html" />
+            <title type="html"><![CDATA[LaTex公式入门]]></title>
+            <link href="https://dragonlau0924.github.io/latex/" rel="alternate" type="text/html" />
             
-                <id>https://dragonlau0924.github.io/letex/</id>
+                <id>https://dragonlau0924.github.io/latex/</id>
             
             
             <published>2023-02-04T00:00:00+00:00</published>
