@@ -36,11 +36,11 @@ isTop: false
 >当上下标多于一个字符时，需要用**大括号括起**。
 
 - `$x^2$`  
-![image.png](https://s1.vika.cn/space/2023/02/04/a0ef07bc21e4474aa7caa74e73441ae2)
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/a0ef07bc21e4474aa7caa74e73441ae2)
 - `$x_i$`  
-![image.png](https://s1.vika.cn/space/2023/02/04/2ae1ffea897e4a40bfe72160bfc1e5e9)
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/2ae1ffea897e4a40bfe72160bfc1e5e9)
 - `$e^{x+y+z}$`
-![image.png](https://s1.vika.cn/space/2023/02/04/06287b63582c47fc89fc7a53e58f78c2)
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/06287b63582c47fc89fc7a53e58f78c2)
 
 ## 分式与根式
 
@@ -51,17 +51,12 @@ isTop: false
 ### 根式
 
 - 采用 `\sqrt[]{}` 表示，其中第一个 `[]` 表示开几次方根，第二个 `{}` 表示被开方数。
-
-`$\frac{ a }{ b }$`  
-![image.png](https://s1.vika.cn/space/2023/02/04/1f2129d4f8de48e29e5b96ffc3e6b493)
-
-`$\sqrt{ 2 }$`  
-![image.png](https://s1.vika.cn/space/2023/02/04/ac2fd13413d74889a38517ccd45904fd)
-
-`$\sqrt[ 3 ]{ 4 }$`  
-![image.png](https://s1.vika.cn/space/2023/02/04/ea379defa7374a58a634cdfd312fb0bb)
-
-
+- `$\frac{ a }{ b }$`  
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/1f2129d4f8de48e29e5b96ffc3e6b493)
+- `$\sqrt{ 2 }$`  
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/ac2fd13413d74889a38517ccd45904fd)
+- `$\sqrt[ 3 ]{ 4 }$`  
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/ea379defa7374a58a634cdfd312fb0bb)
 
 ## 普通运算符
 
@@ -77,33 +72,28 @@ isTop: false
 ## 大型运算符
 
 - 注意，通常情况下，求和 `/` 求积符号的上下界条件显示在符号的右侧如果想让其显示在下侧，需要在求和号后加 `\limits` 做限制。  
-
-`$\sum_{i=O}^{n}x_i$`
-![image.png](https://s1.vika.cn/space/2023/02/04/435b7a2ecaef47be800bea8aa018866f)
-`$\sum\limits_{i=O}^{n}x_i$`
-![image.png](https://s1.vika.cn/space/2023/02/04/fe53f51a99ce46fa89154f30254a8ac4)
-
-
-
-![image.png](https://s1.vika.cn/space/2023/02/04/c5f7a5ce4f0f40e1834a0a28ad2dd921)
+- `$\sum_{i=O}^{n}x_i$`
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/435b7a2ecaef47be800bea8aa018866f)
+- `$\sum\limits_{i=O}^{n}x_i$`
+	- ![image.png](https://s1.vika.cn/space/2023/02/04/fe53f51a99ce46fa89154f30254a8ac4)
+- ![image.png](https://s1.vika.cn/space/2023/02/04/c5f7a5ce4f0f40e1834a0a28ad2dd921)
 
 ## 标注符号
 
 ### 数学重音符号
 
-![image.png](https://s1.vika.cn/space/2023/02/04/de953ccde1df4a468b0682995543ac7b)
+- ![image.png](https://s1.vika.cn/space/2023/02/04/de953ccde1df4a468b0682995543ac7b)
 
 ### 作为重音的箭头符号
 
 ## 箭头
 
-![image.png](https://s1.vika.cn/space/2023/02/04/83e9098745f447f1908206c2541f3283)
+- ![image.png](https://s1.vika.cn/space/2023/02/04/83e9098745f447f1908206c2541f3283)
 
 ## 矩阵
 
-`$$\begin{括号类型} 值 & 值 & 值\\ 值 & 值 & 值 \end{矩阵类型}$$`  
-
-实例
+- `$$\begin{括号类型} 值 & 值 & 值\\ 值 & 值 & 值 \end{矩阵类型}$$`  
+- 实例：
 
 ```
 $$\begin{equation}
@@ -123,6 +113,5 @@ $$\begin{equation}
 \end{equation}$$
 ```
 
-![image.png](https://s1.vika.cn/space/2023/02/04/01ef83d7ef934ceebb8d914d2d303fd4)
-
+- ![image.png](https://s1.vika.cn/space/2023/02/04/01ef83d7ef934ceebb8d914d2d303fd4)
 
