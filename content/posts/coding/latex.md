@@ -1,5 +1,5 @@
 ---
-title: "LaTex公式入门"
+title: LaTex公式入门
 date: 2023-02-04
 tags: [折腾]
 feature: https://s1.vika.cn/space/2023/02/04/a83a8827894f455ba62493a161d59c7a
@@ -8,7 +8,10 @@ hideInList: false
 isTop: false
 ---
 
-- 建立在Tex式上的格式，用于排版。它内置了大量的公式，为用户提供了极大的便利。
+- LaTex公式是建立在Tex式上的格式，用于排版。它内置了大量的公式，为用户提供了极大的便利。
+
+<!--more-->
+
 - 命令以 `\` 开头，用 `$` 符号括起。
 
 ## 希腊字母
