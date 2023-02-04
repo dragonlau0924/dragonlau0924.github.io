@@ -1,5 +1,5 @@
 ---
-title: "LeTex公式入门"
+title: "LaTex公式入门"
 date: 2023-02-04
 tags: [折腾]
 feature: https://s1.vika.cn/space/2023/02/04/a83a8827894f455ba62493a161d59c7a
