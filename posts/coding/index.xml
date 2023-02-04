@@ -13,11 +13,7 @@
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dragonlau0924.github.io/latex/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;建立在Tex式上的格式，用于排版。&lt;/li&gt;
-&lt;li&gt;内置了大量的公式，为用户提供了极大便利。&lt;/li&gt;
-&lt;li&gt;命令以 &lt;code&gt;\&lt;/code&gt; 开头，用 &lt;code&gt;$&lt;/code&gt; 符号括起。&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>建立在Tex式上的格式，用于排版。它内置了大量的公式，为用户提供了极大的便利。 命令以 \ 开头，用 $ 符号括起。 希腊字母 ¶小写字母 ¶ 按照希腊字母对照表。 大写字母 ¶ 只需将对应小写字母的首字母大写。 上下标 ¶下标 ¶ 使用下划线 - 上标 ¶ 使用 ^ [!Tips] 当上下标多于一个字符时，需要用大括号括起。 $x^2$ $x_i$ $e^{x+y+z}$ 分式</description>
     </item>
     
     <item>
