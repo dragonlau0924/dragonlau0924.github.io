@@ -7,12 +7,137 @@
             <link href="https://dragonlau0924.github.io/atom.xml" rel="self" type="application/rss+xml" title="atom" />
             <link href="https://dragonlau0924.github.io/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://dragonlau0924.github.io/index.json" rel="alternate" type="application/json" title="JSON" />
-    <updated>2023-02-04T05:58:08+00:00</updated>
+    <updated>2023-02-04T05:58:26+00:00</updated>
     
     
     
     
         <id>https://dragonlau0924.github.io/atom.xml</id>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[LeTex公式入门]]></title>
+            <link href="https://dragonlau0924.github.io/letex/" rel="alternate" type="text/html" />
+            
+                <id>https://dragonlau0924.github.io/letex/</id>
+            
+            
+            <published>2023-02-04T00:00:00+00:00</published>
+            <updated>2023-02-04T00:00:00+00:00</updated>
+            
+            
+            <content type="html"><![CDATA[<ul>
+<li>建立在Tex式上的格式，用于排版。</li>
+<li>内置了大量的公式，为用户提供了极大便利。</li>
+<li>命令以 <code>\</code> 开头，用 <code>$</code> 符号括起。</li>
+</ul>
+<h2 id="希腊字母">希腊字母 <a href="#%e5%b8%8c%e8%85%8a%e5%ad%97%e6%af%8d">¶</a></h2><h3 id="小写字母">小写字母 <a href="#%e5%b0%8f%e5%86%99%e5%ad%97%e6%af%8d">¶</a></h3><ul>
+<li>按照<strong>希腊字母对照表</strong>。</li>
+</ul>
+<h3 id="大写字母">大写字母 <a href="#%e5%a4%a7%e5%86%99%e5%ad%97%e6%af%8d">¶</a></h3><ul>
+<li>只需将对应<strong>小写字母的首字母大写</strong>。<br>
+<img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/02/ea59026d8d6a4f3783285161c53f9ef1" alt="普通运算符.png"  /></li>
+</ul>
+<h2 id="上下标">上下标 <a href="#%e4%b8%8a%e4%b8%8b%e6%a0%87">¶</a></h2><h3 id="下标">下标 <a href="#%e4%b8%8b%e6%a0%87">¶</a></h3><ul>
+<li>使用下划线 <code>-</code></li>
+</ul>
+<h3 id="上标">上标 <a href="#%e4%b8%8a%e6%a0%87">¶</a></h3><ul>
+<li>使用 <code>^</code></li>
+</ul>
+<blockquote>
+<p>[!Tips]<br>
+当上下标多于一个字符时，需要用<strong>大括号括起</strong>。</p>
+</blockquote>
+<ul>
+<li><code>$x^2$</code>
+<ul>
+<li>$x^2$</li>
+</ul>
+</li>
+<li><code>$x_i$</code>
+<ul>
+<li>$x_i$</li>
+</ul>
+</li>
+<li><code>$e^{x+y+z}$</code>
+<ul>
+<li>$e^{x+y+z}$</li>
+</ul>
+</li>
+</ul>
+<h2 id="分式与根式">分式与根式 <a href="#%e5%88%86%e5%bc%8f%e4%b8%8e%e6%a0%b9%e5%bc%8f">¶</a></h2><h3 id="分式">分式 <a href="#%e5%88%86%e5%bc%8f">¶</a></h3><ul>
+<li>采用 <code>\frac{}{}</code> 来表示，其中第一个 <code>{}</code> 为分子，第二个 <code>{}</code> 为分母。</li>
+</ul>
+<h3 id="根式">根式 <a href="#%e6%a0%b9%e5%bc%8f">¶</a></h3><ul>
+<li>采用 <code>\sqrt[]{}</code> 表示，其中第一个 <code>[]</code> 表示开几次方根，第二个 <code>{}</code> 表示被开方数。</li>
+</ul>
+<p><code>$\frac{ a }{ b }$</code><br>
+$\frac{ a }{ b }$<br>
+<code>$\sqrt{ 2 }$</code><br>
+$\sqrt{ 2 }$<br>
+<code>$\sqrt[ 3 ]{ 4 }$</code><br>
+$\sqrt[ 3 ]{ 4 }$</p>
+<h2 id="普通运算符">普通运算符 <a href="#%e6%99%ae%e9%80%9a%e8%bf%90%e7%ae%97%e7%ac%a6">¶</a></h2><h3 id="二元关系符">二元关系符 <a href="#%e4%ba%8c%e5%85%83%e5%85%b3%e7%b3%bb%e7%ac%a6">¶</a></h3><ul>
+<li>所有的二元关系符都可以加<code>\not</code>前缀得到相反意义的关系符，例如<code>\not=</code>就得到不等号(同<code>\ne</code> ）。<br>
+<img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/04/282afcddc60343719e1baf1e0a7b449b" alt="image.png"  /></li>
+</ul>
+<h3 id="二元运算符">二元运算符 <a href="#%e4%ba%8c%e5%85%83%e8%bf%90%e7%ae%97%e7%ac%a6">¶</a></h3><p><img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/04/0141a23336034042a189538e8ba0ea6a" alt="image.png"  /></p>
+<h2 id="大型运算符">大型运算符 <a href="#%e5%a4%a7%e5%9e%8b%e8%bf%90%e7%ae%97%e7%ac%a6">¶</a></h2><ul>
+<li>注意，通常情况下，求和 <code>/</code> 求积符号的上下界条件显示在符号的右侧如果想让其显示在下侧，需要在求和号后加 <code>\limits</code> 做限制。<br>
+<code>$\sum_{i=O}^{n}x_i$</code>渲染后的结果为$\sum_{i=O}^{n}x_i$</li>
+</ul>
+<p><code>$\sum\limits_{i=O}^{n}x_i$</code>渲染后的结果为$\sum\limits_{i=O}^{n}x_i$<br>
+<img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/04/c5f7a5ce4f0f40e1834a0a28ad2dd921" alt="image.png"  /></p>
+<h2 id="标注符号">标注符号 <a href="#%e6%a0%87%e6%b3%a8%e7%ac%a6%e5%8f%b7">¶</a></h2><h3 id="数学重音符号">数学重音符号 <a href="#%e6%95%b0%e5%ad%a6%e9%87%8d%e9%9f%b3%e7%ac%a6%e5%8f%b7">¶</a></h3><p><img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/04/de953ccde1df4a468b0682995543ac7b" alt="image.png"  /></p>
+<h3 id="作为重音的箭头符号">作为重音的箭头符号 <a href="#%e4%bd%9c%e4%b8%ba%e9%87%8d%e9%9f%b3%e7%9a%84%e7%ae%ad%e5%a4%b4%e7%ac%a6%e5%8f%b7">¶</a></h3><h2 id="箭头">箭头 <a href="#%e7%ae%ad%e5%a4%b4">¶</a></h2><p><img loading='lazy' decoding="async" src="https://s1.vika.cn/space/2023/02/04/83e9098745f447f1908206c2541f3283" alt="image.png"  /></p>
+<h2 id="矩阵">矩阵 <a href="#%e7%9f%a9%e9%98%b5">¶</a></h2><p><code>$$\begin{括号类型} 值 &amp; 值 &amp; 值\\ 值 &amp; 值 &amp; 值 \end{矩阵类型}$$</code></p>
+<p>实例</p>
+<pre tabindex="0"><code>$$\begin{equation}
+	\begin{gathered}
+	\begin{matrix} 0 &amp; 1 \\ 1 &amp; 0 \end{matrix}
+	\quad
+	\begin{pmatrix} 0 &amp; -i \\ i &amp; 0 \end{pmatrix}
+	\quad
+	\begin{bmatrix} 0 &amp; -1 \\ 1 &amp; 0 \end{bmatrix}
+	\quad
+	\begin{Bmatrix} 1 &amp; 0 \\ 0 &amp; -1 \end{Bmatrix}
+	\quad
+	\begin{vmatrix} a &amp; b \\ c &amp; d \end{vmatrix}
+	\quad
+	\begin{Vmatrix} i &amp; 0 \\ 0 &amp; -i \end{Vmatrix}
+	\end{gathered}
+\end{equation}$$
+</code></pre><p>$$\begin{equation}
+\begin{gathered}
+\begin{matrix} 0 &amp; 1 \ 1 &amp; 0 \end{matrix}
+\quad
+\begin{pmatrix} 0 &amp; -i \ i &amp; 0 \end{pmatrix}
+\quad
+\begin{bmatrix} 0 &amp; -1 \ 1 &amp; 0 \end{bmatrix}
+\quad
+\begin{Bmatrix} 1 &amp; 0 \ 0 &amp; -1 \end{Bmatrix}
+\quad
+\begin{vmatrix} a &amp; b \ c &amp; d \end{vmatrix}
+\quad
+\begin{Vmatrix} i &amp; 0 \ 0 &amp; -i \end{Vmatrix}
+\end{gathered}
+\end{equation}$$</p>]]></content>
+            
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://dragonlau0924.github.io/tags/%E6%8A%98%E8%85%BE" term="%E6%8A%98%E8%85%BE" label="折腾" />
+                            
+                        
+                    
+                
+            
+        </entry>
     
         
         <entry>
