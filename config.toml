@@ -1,0 +1,84 @@
+baseURL  =  "https://dragonlau0924.github.io"
+languageCode = "zh-CN"
+# DefaultContentLanguage = "zh-CN"
+title  =  "青蓝"
+subtitle = "向内求。"
+
+# 主题
+theme  =  "hello-friend"
+summaryLength = 140
+hasCJKLanguage = true
+# 每页显示的文章数量用于分页
+paginate =  10
+# rss 输出数量
+rssLimit = 5
+
+[menu]
+
+  [[menu.main]]
+  name="阅读"
+  url="/posts/reading/"
+  weight="2"
+
+  [[menu.main]]
+  name="日常"
+  url="/posts/daily/"
+  weight="3"
+
+  [[menu.main]]
+  name="归档"
+  url="/archives/"
+  weight="4"
+
+  [[menu.main]]
+  name="关于我"
+  url="/about/"
+  weight="5"
+
+  [[menu.main]]
+  name="🔍"
+  url="/search/"
+  weight="6"
+
+
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "light"
+  # if you set this to 0, only submenu trigger will be visible
+  # showMenuItems = 4
+  # Enable to show reading time in minutes for posts
+  showReadingTime = false
+  logoText = "hello friend"
+
+  MenuMore = "更多"
+  DateFormatList = "2006-01-02 15:04:05"
+  DateFormatSingle = "2006-01-02 15:04:05"
+  ReadMore = "阅读全文"
+  
+  description = "生命就是反重力的过程"
+	keywords = "博客、app、折腾、生活、阅读、自律"
+ 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+    
+[outputs]
+  home = ["Atom", "HTML","JSON"] # <domain>/atom.xml
+  page = ["HTML"]
+  
+[outputFormats.Atom]
+  mediatype = "application/rss"
+  baseName = "atom"
+
+[params.twikoo]
+	enable = false
+  
