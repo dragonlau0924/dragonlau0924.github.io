@@ -8,7 +8,7 @@ hideInList: false
 isTop: false
 ---
 
-SuperMemo 很好，Anki 也不差。只有适合自己的才是最好的。
+SuperMemo 很好，Anki 也不差。只要适合自己，就是最好的。
 
 <!--more-->
 
