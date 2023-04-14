@@ -2,7 +2,7 @@
 title: "Hugo建站"
 date: 2023-01-18
 tags: [日常]
-feature: https://i0.hdslb.com/bfs/album/0f05c4abb33d045f3616c9dd2c0672693e28806b.png
+feature: 
 ---
 
 ​       断断续续耗时三天，终于建立了自己的hugo个人博客网站。https://dragonlau0924.github.io/
