@@ -26,11 +26,6 @@ rssLimit = 5
   weight="2"
 
   [[menu.main]]
-  name="闲聊"
-  url="/posts/chat/"
-  weight="3"
-
-  [[menu.main]]
   name="归档"
   url="/archives/"
   weight="4"
