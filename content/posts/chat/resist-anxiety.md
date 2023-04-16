@@ -1,16 +1,12 @@
 ---
 title: 抵抗焦虑
 date: 2023-04-16T15:02:58+08:00
-tags: [日常]
+tags: [闲聊]
 feature: 
 published: true
 hideInList: false
 isTop: false
 ---
-
-就这样卷来卷去。
-
-<!--more-->
 
 难受的时候读读鲁迅，真的，好像一切都释然了。
 

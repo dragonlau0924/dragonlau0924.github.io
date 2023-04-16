@@ -18,11 +18,16 @@ rssLimit = 5
   [[menu.main]]
   name="阅读"
   url="/posts/reading/"
-  weight="2"
+  weight="1"
 
   [[menu.main]]
   name="日常"
   url="/posts/daily/"
+  weight="2"
+
+  [[menu.main]]
+  name="闲聊"
+  url="/posts/chat/"
   weight="3"
 
   [[menu.main]]
