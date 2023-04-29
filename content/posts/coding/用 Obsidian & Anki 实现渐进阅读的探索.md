@@ -8,7 +8,7 @@ hideInList: false
 isTop: false
 ---
 
-SuperMemo 很好，Anki 也不差。只要适合自己，就是最好的。
+如果想用 Anki 实现 SuperMemo 般的渐进阅读……
 
 <!--more-->
 
