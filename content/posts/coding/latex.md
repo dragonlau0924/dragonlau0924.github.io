@@ -6,6 +6,12 @@ feature: https://s1.vika.cn/space/2023/02/04/a83a8827894f455ba62493a161d59c7a
 published: true
 hideInList: false
 isTop: false
+margin: 0
+width: 1920
+height: 1200
+transition: slide
+center: true
+bg: '#2e3440'
 ---
 
 - LaTex公式是建立在Tex式上的格式，用于排版。它内置了大量的公式，为用户提供了极大的便利。
