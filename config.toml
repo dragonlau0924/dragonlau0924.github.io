@@ -5,7 +5,7 @@ title  =  "青蓝"
 subtitle = "向内求。"
 
 # 主题
-theme  =  "PaperMod"
+theme  =  "hello-friend"
 summaryLength = 140
 hasCJKLanguage = true
 # 每页显示的文章数量用于分页
