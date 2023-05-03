@@ -1,4 +1,6 @@
 ---
+publish: true
+aliases: 
 title: "Hugo自动化发布"
 date: 2023-05-03T14:35:33+08:00
 tags: [折腾]
@@ -12,6 +14,8 @@ height: 1200
 transition: slide
 center: true
 bg: '#2e3440'
+created: 2023-05-03 14:35:33
+updated: 2023-05-03 15:45:52
 ---
 
 把博客发布系统植入 Ob，打造输入&输出的流水线。
@@ -34,15 +38,15 @@ bg: '#2e3440'
 ![image.png](https://s1.vika.cn/space/2023/05/02/e8e568e5f63440c5a1f428ebd78c2371)
 
 - git 上传
-`git config --global user.email "<你的邮箱>"`
-`git config --global user.name "<你的用户名>"`
-`git init`
-`git add .`
-`git commit -m "first push"`
-`git remote add origin <你复制的HTTPS>`
+	- `git config --global user.email "<你的邮箱>"`
+	- `git config --global user.name "<你的用户名>"`
+	- `git init`
+	- `git add .`
+	- `git commit -m "first push"`
+	- `git remote add origin <你复制的HTTPS>`
+	- `git push -u origin master`
+	- `git push`
 ![image.png](https://s1.vika.cn/space/2023/05/02/1ed1d5cbb34344f4838c03ee5935d31d)
-`git push -u origin master`
-`git push`
 
 - token 获取
 ![image.png](https://s1.vika.cn/space/2023/05/02/965656c721f34261a9926286f7c2f4a2)
