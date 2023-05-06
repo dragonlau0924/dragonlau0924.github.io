@@ -18,6 +18,8 @@ bg: '#2e3440'
 
 <!--more-->
 
+{{< bilibili BV1Dg4y1L7N8 >}}
+
 ---
 
 ## SuperMemo & Anki 的优缺点比较
