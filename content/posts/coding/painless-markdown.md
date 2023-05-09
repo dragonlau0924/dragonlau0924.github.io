@@ -6,12 +6,13 @@ feature:
 published: true
 hideInList: false
 isTop: false
-margin: 0
+theme: simple
+center: false
+cssclass: mySlide
 width: 1920
-height: 1200
-transition: slide
-center: true
-bg: '#2e3440'
+height: 1080
+margin: 0.1
+css: Extras/css/as-list.css
 ---
 
 在我们使用 Markdown 的过程中总是会被 Markdown 相对复杂的语法所困扰，不同设备、不同软件之间，输入方式各不相同，那么有没有一种方式可以把所有的设备输入 Markdown 的方式都统一起来呢？直到我发现了**它**。

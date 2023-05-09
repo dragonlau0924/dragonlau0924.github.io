@@ -15,15 +15,6 @@ rssLimit = 5
 
 [menu]
 
-  [[menu.main]]
-  name="阅读"
-  url="/posts/reading/"
-  weight="1"
-
-  [[menu.main]]
-  name="日常"
-  url="/posts/daily/"
-  weight="2"
 
   [[menu.main]]
   name="归档"
@@ -31,7 +22,7 @@ rssLimit = 5
   weight="4"
 
   [[menu.main]]
-  name="关于我"
+  name="关于"
   url="/about/"
   weight="5"
 
@@ -58,8 +49,8 @@ rssLimit = 5
   DateFormatSingle = "2006-01-02 15:04:05"
   ReadMore = "阅读全文"
   
-  description = "生命就是反重力的过程"
-	keywords = "博客、app、折腾、生活、阅读、自律"
+  description = "内求外修"
+	keywords = "博客、app"
  
 
 [markup]
