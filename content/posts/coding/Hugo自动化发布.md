@@ -132,13 +132,19 @@ jobs:
 ---
 
 ## hugo
-- 框架了解
-	- archetypes
-	- content
-	- data
-	- static
-	- themes
-	- config.toml
+- hugo 文件夹基础功能了解
+
+```
+├── config.toml     # 网站的配置信息
+├── archetypes      # 存放 .md 文件的模板
+├── content         # 存放 .md 文件
+├── data            # 存放 Hugo 数据
+├── layouts         # 存放布局文件,包括partials和shortcodes
+├── public          # 公共文件夹，用于存放生成的站点文件
+├── static          # 存放静态文件，比如图片、CSS、JS
+└── themes          # 存放主题
+```
+
 
 ---
 
