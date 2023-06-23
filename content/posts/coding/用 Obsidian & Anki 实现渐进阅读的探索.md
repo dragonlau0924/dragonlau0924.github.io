@@ -41,7 +41,7 @@ bg: '#2e3440'
 
 ## 用 Obsidian & Anki 实现渐进阅读的探索
 + 算法落后&卡片堆积的解决方案：
-	+ [FSRS 算法](https://github.com/open-spaced-repetition/fsrs4anki)（*叶哥*）：更先进，可**提前**或**推迟**
+	+ [FSRS 算法](https://github.com/open-spaced-repetition/fsrs4anki)（[叶哥](https://zhuanlan.zhihu.com/p/636564830)）：更先进，可**提前**或**推迟**
 + 渐进阅读解决方案探索：
 	+ [Spaced Repetition 插件](https://github.com/st3v3nmw/obsidian-spaced-repetition) ：文章的排期（*交叉*）
 	+ [Anki](https://apps.ankiweb.net/) & [flashcards 插件](https://github.com/reuseman/flashcards+obsidian/wiki)：摘录、挖空/问答、 间隔重复
