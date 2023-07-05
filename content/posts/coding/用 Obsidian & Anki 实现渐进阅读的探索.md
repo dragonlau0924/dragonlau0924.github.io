@@ -11,7 +11,7 @@ width: 1920
 height: 1200
 transition: slide
 center: true
-bg: '#2e3440'
+bg: '#1f242e'
 ---
 
 如果想用 Anki 实现 SuperMemo 般的渐进阅读……
