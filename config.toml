@@ -15,6 +15,15 @@ rssLimit = 5
 
 [menu]
 
+  [[menu.main]]
+  name="memo"
+  url="/posts/chat/"
+  weight="2"
+
+  [[menu.main]]
+  name="reading"
+  url="/posts/reading/"
+  weight="3"
 
   [[menu.main]]
   name="归档"
