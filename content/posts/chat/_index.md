@@ -1,4 +1,4 @@
 ---
-title: "随感"
-slug: "chat"
+title: 短文
+slug: chat
 ---

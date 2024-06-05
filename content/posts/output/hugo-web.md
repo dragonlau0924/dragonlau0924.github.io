@@ -1,13 +1,12 @@
 ---
-title: "Hugo建站"
+title: Hugo建站
 date: 2023-01-18
-tags: [日常]
-feature: 
+tags:
+  - 短文
+feature:
 ---
 
 ​ 断断续续耗时三天，终于建立了自己的hugo个人博客网站。https://dragonlau0924.github.io/
-
-<!--more-->
 
 ​ 妈的，最烦的就是push到github的部分，老是出现各种报错，度娘都快成亲娘了。过程虽然很蛋疼，但是也学会了很多东西，git算是入门了，而不仅仅是停留在白嫖各种资源的阶段。
 

@@ -1,8 +1,9 @@
 ---
-title: "用 Ob 构建专属于你的数字花园"
+title: 用 Ob 构建专属于你的数字花园
 date: 2023-08-17T12:50:35+08:00
-tags: [折腾]
-feature: https://s1.vika.cn/space/2023/08/17/eabbb89e3c524cf8bf6cb8f85d4946b1
+tags:
+  - 教程
+feature: 
 published: true
 hideInList: false
 isTop: false

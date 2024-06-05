@@ -1,7 +1,8 @@
 ---
 title: 用 Obsidian & Anki 实现渐进阅读的探索
 date: 2023-04-13T22:12:11+08:00
-tags: [折腾]
+tags:
+  - 教程
 feature: 
 published: true
 hideInList: false
@@ -11,7 +12,7 @@ width: 1920
 height: 1200
 transition: slide
 center: true
-bg: '#1f242e'
+bg: "#1f242e"
 ---
 
 如果想用 Anki 实现 SuperMemo 般的渐进阅读……

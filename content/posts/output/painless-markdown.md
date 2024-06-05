@@ -1,7 +1,8 @@
 ---
 title: 全平台无痛 Markdown
 date: 2023-04-13T17:28:29+08:00
-tags: [折腾]
+tags:
+  - 教程
 feature: 
 published: true
 hideInList: false
