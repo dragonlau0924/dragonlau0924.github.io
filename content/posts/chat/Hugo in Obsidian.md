@@ -2,7 +2,7 @@
 title: Hugo in Obsidian
 date: 2023-04-12T21:06:56+08:00
 tags:
-  - 短文
+  - 想法
 feature: 
 published: true
 hideInList: false

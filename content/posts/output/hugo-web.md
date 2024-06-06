@@ -2,7 +2,7 @@
 title: Hugo建站
 date: 2023-01-18
 tags:
-  - 短文
+  - 想法
 feature:
 ---
 
