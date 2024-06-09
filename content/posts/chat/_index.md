@@ -1,4 +1,4 @@
 ---
-title: 短文
+title: 想法
 slug: chat
 ---

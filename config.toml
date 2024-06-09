@@ -18,20 +18,25 @@ rssLimit = 5
   [[menu.main]]
   name="memo"
   url="/posts/chat/"
+  weight="1"
+
+  [[menu.main]]
+  name="input"
+  url="/posts/reading/"
   weight="2"
 
   [[menu.main]]
-  name="reading"
-  url="/posts/reading/"
+  name="output"
+  url="/posts/output/"
   weight="3"
 
   [[menu.main]]
-  name="归档"
+  name="archive"
   url="/archives/"
   weight="4"
 
   [[menu.main]]
-  name="关于"
+  name="about"
   url="/about/"
   weight="5"
 
