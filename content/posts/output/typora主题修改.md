@@ -8,6 +8,8 @@ published: true
 ---
 typora的主题字体颜色不太醒目，于是我把里面的`github主题`做了一些修改，最终效果如下：
 
+<!--more-->
+
 ![image.png](https://s1.vika.cn/space/2024/11/04/631e7f0c2d6b4957a07c20055ca81edf)
 
 ```css
