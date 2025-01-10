@@ -1,8 +1,8 @@
 ---
-title: typora主题修改
-date: 2024-11-04T17:59:00
 tags:
   - 教程
+title: typora主题修改
+date: 2024-11-04T17:59:00
 feature: 
 published: true
 ---
@@ -65,4 +65,15 @@ em {
 }
 
 ```
-typora用来批量上传一些本地图片还是很好使的，简洁的UI页面偶尔用来写作也不错，配合Ob也可以用来快速打开单个文件。强推！！！
+typora用来批量上传一些本地图片还是很好使的，简洁的UI页面偶尔用来写作也不错，也可以配合Obsidian用来快速打开单个文件。强推！！！
+
+## 字体推荐
+- 未来荧黑
+- 霞婺文楷
+- 苹方-繁
+- JetBrains Mono
+
+## 其他主题推荐
+- Fugu
+- Blubook
+- Nord
