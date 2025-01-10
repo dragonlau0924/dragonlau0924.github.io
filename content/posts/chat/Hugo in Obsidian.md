@@ -17,3 +17,4 @@ isTop: false
 要是 obsidian git 插件可以同时提交两个 git 仓库就好了，那将绝杀，直接形成输入和输出的 pipline，实现**真 all in one**！
 
 ![图片](https://s1.vika.cn/space/2023/04/12/ed4dd1b558434b3f85f943c74e9bac4e)
+
